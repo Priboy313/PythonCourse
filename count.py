@@ -1,6 +1,15 @@
 import sys
 
-word = sys.argv[1]
-lit = sys.argv[2]
+ITEM = str(sys.argv[1])
+ITEM = ITEM.strip(" ")
 
-print(word.count(lit))
+ITEM = ITEM.split(" ")
+
+result = []
+
+for x in range(0, len(ITEM)):
+	if ITEM[x].isalnum():
+		result.append(ITEM[x])
+
+
+print(len(result))
