@@ -30,6 +30,3 @@ with open("result.txt", "w", encoding="utf8") as file:
 			file.write(f"При x = {key} значение y = {round(item.real, 3) + round(item.imag, 3) * 1j}\n")
 		else:
 			file.write(f"При x = {key} значение y = {format(item, '.3')}\n")
-
-
-
