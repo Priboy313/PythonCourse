@@ -1,58 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1020cf8-426a-495c-b403-a8d08a9da73d" name="Changes" comment="рейтинговая работа refactor">
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Второй семестр/distance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Второй семестр/is_cross.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Второй семестр/near_shops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Второй семестр/Рейтинговая работа 2/result.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Второй семестр/Рейтинговая работа 2/source_data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Второй семестр/Рейтинговая работа 2/Воробьев_КА.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Первый семестр/Рейтинговая работа 1/main.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Первый семестр/Рейтинговая работа 1/python_reit.drawio" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Первый семестр/Рейтинговая работа 1/script.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Первый семестр/Рейтинговая работа 1/y(x).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Первый семестр/Рейтинговая работа 1/Воробьев КА.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Первый семестр/Рейтинговая работа 1/Воробьев_КА.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Первый семестр/Рейтинговая работа 1/Приложение 1.png" afterDir="false" />
+    <list default="true" id="d1020cf8-426a-495c-b403-a8d08a9da73d" name="Changes" comment="рейтинговая работа 2, код на 6/7 заданий">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIO.py" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/FIO.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matrix/matrix.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/Matrix/matrix.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matrix/sled.py" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/Matrix/sled.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shopping x3/shopping.py" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/Shopping x3/shopping.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shopping x3/shopping_list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/Shopping x3/shopping_list.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shopping x3/shopping_list_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/Shopping x3/shopping_list_1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shopping x3/shopping_list_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/Shopping x3/shopping_list_2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shopping x3/shopping_list_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/Shopping x3/shopping_list_3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transpose Matrix/matrix.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/Transpose Matrix/matrix.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transpose Matrix/transpose.py" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/Transpose Matrix/transpose.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transpose Matrix/transpose_matrix.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/Transpose Matrix/transpose_matrix.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__nonfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/__nonfile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bulka.py" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/bulka.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/count.py" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/count.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/digit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/digit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/hello_user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello_world.py" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/hello_world.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kinetic_force.py" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/kinetic_force.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_headder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/main_headder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/max.py" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/max.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minus.py" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/minus.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mult.py" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/mult.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mw.py" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/mw.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_file" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/my_file" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numbers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/numbers.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/palindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repeat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/repeat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/revers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/revers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq.py" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/sq.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swap_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/swap_case.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/th.py" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/th.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Рейтинговая работа/1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/Рейтинговая работа 1/1.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Рейтинговая работа/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/Рейтинговая работа 1/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Рейтинговая работа/result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/Рейтинговая работа 1/result.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Рейтинговая работа/source_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Первый семестр/Рейтинговая работа 1/source_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Второй семестр/Рейтинговая работа 2/result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Второй семестр/Рейтинговая работа 2/result.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Второй семестр/Рейтинговая работа 2/Воробьев_КА.py" beforeDir="false" afterPath="$PROJECT_DIR$/Второй семестр/Рейтинговая работа 2/Воробьев_КА.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -250,7 +203,7 @@
       <workItem from="1639732902186" duration="1023000" />
       <workItem from="1641807425653" duration="2027000" />
       <workItem from="1644229223050" duration="7621000" />
-      <workItem from="1644311130290" duration="7267000" />
+      <workItem from="1644311130290" duration="13203000" />
     </task>
     <task id="LOCAL-00001" summary="рейтинговая работа">
       <created>1632506905520</created>
@@ -273,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634907347111</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="рейтинговая работа 2, код на 6/7 заданий">
+      <created>1644318888390</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1644318888390</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,7 +255,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="рейтинговая работа" />
     <MESSAGE value="рейтинговая работа refactor" />
-    <option name="LAST_COMMIT_MESSAGE" value="рейтинговая работа refactor" />
+    <MESSAGE value="рейтинговая работа 2, код на 6/7 заданий" />
+    <option name="LAST_COMMIT_MESSAGE" value="рейтинговая работа 2, код на 6/7 заданий" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonCourse$near_shops.coverage" NAME="near_shops Coverage Results" MODIFIED="1644233508553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Второй семестр" />
@@ -305,7 +266,7 @@
     <SUITE FILE_PATH="coverage/PythonCourse$script.coverage" NAME="script Coverage Results" MODIFIED="1634474362720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Рейтинговая работа" />
     <SUITE FILE_PATH="coverage/PythonCourse$decode_caeser.coverage" NAME="is_cross Coverage Results" MODIFIED="1644234341508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Второй семестр" />
     <SUITE FILE_PATH="coverage/PythonCourse$__nonfile.coverage" NAME="__nonfile Coverage Results" MODIFIED="1634902212195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonCourse$main.coverage" NAME="Воробьев_КА Coverage Results" MODIFIED="1644318654134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Второй семестр/Рейтинговая работа 2" />
+    <SUITE FILE_PATH="coverage/PythonCourse$main.coverage" NAME="Воробьев_КА Coverage Results" MODIFIED="1644327173162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Второй семестр/Рейтинговая работа 2" />
     <SUITE FILE_PATH="coverage/PythonCourse$__nonfile__1_.coverage" NAME="__nonfile (1) Coverage Results" MODIFIED="1644238289283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonCourse$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1634905485175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Рейтинговая работа" />
     <SUITE FILE_PATH="coverage/PythonCourse$distance.coverage" NAME="distance Coverage Results" MODIFIED="1644230114240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Второй семестр" />
