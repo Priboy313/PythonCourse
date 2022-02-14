@@ -1,16 +1,18 @@
 
 def get_source_data(src_url:str):
 	with open(src_url, "r", encoding="utf-8") as file:
-		src = file.read().split("\n")
-		return src
+		_src = file.read().split("\n")
+		return _src
 
 
 def get_quotient(src_data:list):
+	"""Вычисление частного от деления ID на количество букв в ФИО без учёта пробелов"""
 	_src_fio = src_data[0].replace(" ", "")
 	return int(src_data[1]) // len(_src_fio)
 
 
 def get_unicode_list(src_string:str):
+	"""Получение списка символов ФИО в кодировке Юникод"""
 	_unicode_list:list = []
 	_src = src_string.replace(" ", "")
 	
@@ -20,40 +22,40 @@ def get_unicode_list(src_string:str):
 	return _unicode_list
 
 
+def merge(left, right):
+	"""Функция слияния частей массивов для сортировки Слиянием"""
+	_sorted_list = []
+	l_index = r_index = 0
+	l_len, r_len = len(left), len(right)
+	
+	for i in range(l_len + r_len):
+		if l_index < l_len and r_index < r_len:
+			if left[l_index] <= right[r_index]:
+				_sorted_list.append(left[l_index])
+				l_index += 1
+			else:
+				_sorted_list.append(right[r_index])
+				r_index += 1
+		elif l_index == l_len:
+			_sorted_list.append(right[r_index])
+			r_index += 1
+		elif r_index == r_len:
+			_sorted_list.append(left[l_index])
+			l_index += 1
+	return _sorted_list
+
+
 def merge_sort(src_unicode_list:list):
 	"""Сортировка слиянием"""
-	_sorted_list = src_unicode_list.copy()
+	_list = src_unicode_list.copy()
 	
-	if len(_sorted_list) > 1:
-		mid = len(_sorted_list) // 2
-		left = _sorted_list[:mid]
-		right = _sorted_list[mid:]
-		
-		merge_sort(left)
-		merge_sort(right)
-		
-		i = j = k = 0
-		
-		while i < len(left) and j < len(right):
-			if left[i] < right[j]:
-				_sorted_list[k] = left[i]
-				i+=1
-			else:
-				_sorted_list[k] = right[j]
-				j+=1
-			k += 1
-		
-		while i < len(left):
-			_sorted_list[k] = left[i]
-			i+=1
-			k+=1
-		
-		while j < len(right):
-			_sorted_list[k] = right[j]
-			j+=1
-			k+=1
-		
-	return _sorted_list
+	if len(_list) == 1 or len(_list) == 0:
+		return _list
+	
+	left = merge_sort( _list[:len(_list) // 2])
+	right = merge_sort(_list[len(_list) // 2:])
+	
+	return merge(left, right)
 
 
 def bubble_sort(src_unicode_list:list):
