@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1020cf8-426a-495c-b403-a8d08a9da73d" name="Changes" comment="рейтинговая работа 2, полный код">
-      <change afterPath="$PROJECT_DIR$/Второй семестр/Рейтинговая работа 2/Воробьев_КА.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Второй семестр/Практика/~$робьев Кирилл АЛексеевич_Отчет.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Второй семестр/Практика/Воробьев Кирилл АЛексеевич_Отчет.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Второй семестр/Практика/Воробьев Кирилл Алексеевич_Индивидуальное задание.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Второй семестр/Практика/ВоробьевКА.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonCourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonCourse.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/__nonfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/__nonfile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Второй семестр/Рейтинговая работа 2/result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Второй семестр/Рейтинговая работа 2/result.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Второй семестр/Рейтинговая работа 2/Воробьев_КА.py" beforeDir="false" afterPath="$PROJECT_DIR$/Второй семестр/Рейтинговая работа 2/Воробьев_КА.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +50,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Author.Today-Fb2-Parser" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="ReaderModeSettings">
@@ -57,7 +61,29 @@
       <recent name="D:\Python\PythonCourse\Первый семестр" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Воробьев_КА (1)">
+  <component name="RunManager" selected="Python.ВоробьевКА">
+    <configuration name="ВоробьевКА" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonCourse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Второй семестр/Практика" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Второй семестр/Практика/ВоробьевКА.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Воробьев_КА (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCourse" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,42 +172,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="near_shops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonCourse" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Второй семестр" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Второй семестр/near_shops.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.__nonfile (1)" />
-      <item itemvalue="Python.near_shops" />
       <item itemvalue="Python.is_cross" />
       <item itemvalue="Python.Воробьев_КА" />
       <item itemvalue="Python.Воробьев_КА (1)" />
+      <item itemvalue="Python.ВоробьевКА" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Воробьев_КА (1)" />
+        <item itemvalue="Python.ВоробьевКА" />
         <item itemvalue="Python.__nonfile (1)" />
+        <item itemvalue="Python.Воробьев_КА (1)" />
         <item itemvalue="Python.Воробьев_КА" />
         <item itemvalue="Python.is_cross" />
-        <item itemvalue="Python.near_shops" />
       </list>
     </recent_temporary>
   </component>
@@ -208,6 +212,14 @@
       <workItem from="1644311130290" duration="14036000" />
       <workItem from="1644580739541" duration="1721000" />
       <workItem from="1644835156655" duration="7565000" />
+      <workItem from="1647524967359" duration="39000" />
+      <workItem from="1649181108428" duration="553000" />
+      <workItem from="1652435281334" duration="1310000" />
+      <workItem from="1652709307691" duration="626000" />
+      <workItem from="1652710330424" duration="152000" />
+      <workItem from="1653208367018" duration="2102000" />
+      <workItem from="1653210510671" duration="267000" />
+      <workItem from="1653292973659" duration="5010000" />
     </task>
     <task id="LOCAL-00001" summary="рейтинговая работа">
       <created>1632506905520</created>
@@ -277,10 +289,13 @@
     <SUITE FILE_PATH="coverage/PythonCourse$decode_caeser.coverage" NAME="is_cross Coverage Results" MODIFIED="1644234341508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Второй семестр" />
     <SUITE FILE_PATH="coverage/PythonCourse$main.coverage" NAME="Воробьев_КА Coverage Results" MODIFIED="1644327184223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Второй семестр/Рейтинговая работа 2" />
     <SUITE FILE_PATH="coverage/PythonCourse$___1_.coverage" NAME="Воробьев_КА (1) Coverage Results" MODIFIED="1644580809589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Второй семестр/Рейтинговая работа 2" />
+    <SUITE FILE_PATH="coverage/Python_Course$.coverage" NAME="ВоробьевКА Coverage Results" MODIFIED="1653297492859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Второй семестр/Практика" />
     <SUITE FILE_PATH="coverage/PythonCourse$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1634905485175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Рейтинговая работа" />
     <SUITE FILE_PATH="coverage/PythonCourse$distance.coverage" NAME="distance Coverage Results" MODIFIED="1644230114240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Второй семестр" />
     <SUITE FILE_PATH="coverage/PythonCourse$near_shops.coverage" NAME="near_shops Coverage Results" MODIFIED="1644233508553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Второй семестр" />
-    <SUITE FILE_PATH="coverage/__py$___1_.coverage" NAME="Воробьев_КА (1) Coverage Results" MODIFIED="1644843709790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Второй семестр/Рейтинговая работа 2" />
+    <SUITE FILE_PATH="coverage/__py$___1_.coverage" NAME="Воробьев_КА (1) Coverage Results" MODIFIED="1652709848379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Второй семестр/Рейтинговая работа 2" />
+    <SUITE FILE_PATH="coverage/__py$__nonfile__1_.coverage" NAME="__nonfile (1) Coverage Results" MODIFIED="1653210116587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Course$__nonfile__1_.coverage" NAME="__nonfile (1) Coverage Results" MODIFIED="1653210743577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonCourse$script.coverage" NAME="script Coverage Results" MODIFIED="1634474362720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Рейтинговая работа" />
     <SUITE FILE_PATH="coverage/PythonCourse$__nonfile.coverage" NAME="__nonfile Coverage Results" MODIFIED="1634902212195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonCourse$__nonfile__1_.coverage" NAME="__nonfile (1) Coverage Results" MODIFIED="1644584691129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
