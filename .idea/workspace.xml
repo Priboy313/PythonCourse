@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1020cf8-426a-495c-b403-a8d08a9da73d" name="Changes" comment="Второй семестр, шаблон отчёта" />
+    <list default="true" id="d1020cf8-426a-495c-b403-a8d08a9da73d" name="Changes" comment="Второй семестр, шаблон отчёта">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Второй семестр/Практика/Воробьев Кирилл Алексеевич_Отчёт.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Второй семестр/Практика/Воробьев Кирилл Алексеевич_Отчёт.docx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -210,6 +213,9 @@
       <workItem from="1653208367018" duration="2102000" />
       <workItem from="1653210510671" duration="267000" />
       <workItem from="1653292973659" duration="5145000" />
+      <workItem from="1653310445223" duration="39000" />
+      <workItem from="1653310500105" duration="39000" />
+      <workItem from="1653402406740" duration="2557000" />
     </task>
     <task id="LOCAL-00001" summary="рейтинговая работа">
       <created>1632506905520</created>
