@@ -52,11 +52,13 @@ def main():
 	series_max = max(series)
 	series_repeats = len(series) - len(series.unique())
 	series_sum = sum(series)
+	series_rms = np.std(series)
 	print(
 		f"Минимальное значение series: {series_min}\n"
 		f"Максимальное значение series: {series_max}\n"
 		f"Повторияющихся значений в series: {series_repeats}\n"
 		f"Сумма значений series: {series_sum}\n"
+		f"Среднеквадратическое отклонение series: {series_rms}\n"
 		)
 	
 	# Построение графика объекта series
