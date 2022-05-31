@@ -1,30 +1,41 @@
-l1 = [1, 2, 3]
-l2 = [4, 5, 6]
-
-l3 = [1, 2, 3]
-l4 = [4, 5]
-
-# def mymap(func, *lists) -> list:
-# 	_lists = sorted(lists, key=len)
-# 	result = []
-#
-# 	for x in range(0, len(_lists[0])):
-# 		result.append(func(_lists[0][x], _lists[1][x]))
-#
-# 	return result
+alph = ['А', 'а', 'Б', 'б', 'В', 'в', 'Г', 'г', 'Д', 'д',
+		'Е', 'е', 'Ё', 'ё', 'Ж', 'ж', 'З', 'з', 'И', 'и',
+		'Й', 'й', 'К', 'к', 'Л', 'л', 'М', 'м', 'Н', 'н',
+		'О', 'о', 'П', 'п', 'Р', 'р', 'С', 'с', 'Т', 'т',
+		'У', 'у', 'Ф', 'ф', 'Х', 'х', 'Ц', 'ц', 'Ч', 'ч',
+		'Ш', 'ш', 'Щ', 'щ', 'Ъ', 'ъ', 'Ы', 'ы', 'Ь', 'ь',
+		'Э', 'э', 'Ю', 'ю', 'Я', 'я', '.', ' ', '!', '?']
 
 
-def mymap(func, *args) -> list:
-	match len(args):
-		case 2:
-			_result = map(func, args[0], args[1])
-		case _:
-			_result = map(func, args[0])
+OFFSET = 5
+
+
+def set_mode():
+	_inp = input("Code (1) or Decode (2)?\n")
 	
-	return list(_result)
+	match _inp:
+		case "1" | "Code":
+			_inp = "Code"
+		case "2" | "Decode":
+			_inp = "Decode"
+		case _:
+			quit()
+	
+	return _inp
+
+def main():
+	_mode = set_mode()
+	
+	match _mode:
+		case "Code":
+			
+	
+	
+	print(len(alph))
 
 
-print(mymap(lambda x, y: x + y, l2, l1))
-print(mymap(lambda x, y: x + y, l3, l4))
+
+if __name__ == "__main__":
+	main()
 
 

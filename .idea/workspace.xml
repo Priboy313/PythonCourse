@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1020cf8-426a-495c-b403-a8d08a9da73d" name="Changes" comment="Второй семестр, шаблон отчёта">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__nonfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/__nonfile.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Второй семестр/Практика/Воробьев Кирилл Алексеевич_Отчёт.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Второй семестр/Практика/Воробьев Кирилл Алексеевич_Отчёт.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Второй семестр/Практика/ВоробьевКА.py" beforeDir="false" afterPath="$PROJECT_DIR$/Второй семестр/Практика/ВоробьевКА.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +30,10 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Второй семестр/Практика/ВоробьевКА.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/__nonfile.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1yOmDenUgP792ljz197Kg2dYSjn" />
   <component name="ProjectLevelVcsManager">
@@ -218,6 +223,9 @@
       <workItem from="1653310500105" duration="39000" />
       <workItem from="1653402406740" duration="2557000" />
       <workItem from="1653405515612" duration="1122000" />
+      <workItem from="1653744951507" duration="694000" />
+      <workItem from="1653997363902" duration="406000" />
+      <workItem from="1654007052144" duration="1112000" />
     </task>
     <task id="LOCAL-00001" summary="рейтинговая работа">
       <created>1632506905520</created>
@@ -309,8 +317,9 @@
     <SUITE FILE_PATH="coverage/PythonCourse$near_shops.coverage" NAME="near_shops Coverage Results" MODIFIED="1644233508553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Второй семестр" />
     <SUITE FILE_PATH="coverage/__py$___1_.coverage" NAME="Воробьев_КА (1) Coverage Results" MODIFIED="1652709848379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Второй семестр/Рейтинговая работа 2" />
     <SUITE FILE_PATH="coverage/__py$__nonfile__1_.coverage" NAME="__nonfile (1) Coverage Results" MODIFIED="1653210116587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Course$__nonfile__1_.coverage" NAME="__nonfile (1) Coverage Results" MODIFIED="1653210743577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Course$__nonfile__1_.coverage" NAME="__nonfile (1) Coverage Results" MODIFIED="1653745351395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonCourse$script.coverage" NAME="script Coverage Results" MODIFIED="1634474362720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Рейтинговая работа" />
+    <SUITE FILE_PATH="coverage/_py$.coverage" NAME="ВоробьевКА Coverage Results" MODIFIED="1654007084370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Второй семестр/Практика" />
     <SUITE FILE_PATH="coverage/PythonCourse$__nonfile.coverage" NAME="__nonfile Coverage Results" MODIFIED="1634902212195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonCourse$__nonfile__1_.coverage" NAME="__nonfile (1) Coverage Results" MODIFIED="1644584691129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
